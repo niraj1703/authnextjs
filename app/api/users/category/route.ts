@@ -6,7 +6,7 @@ import category, { Category } from '@/models/category.model'
 connect()
 
 
-const router = useRouter ()
+
 
 // const router = useRouter ()
 export async function POST( request: NextRequest){
